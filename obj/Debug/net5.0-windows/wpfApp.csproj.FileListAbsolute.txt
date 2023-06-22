@@ -1,0 +1,46 @@
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\wpfApp.exe
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\wpfApp.deps.json
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\wpfApp.runtimeconfig.json
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\wpfApp.runtimeconfig.dev.json
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\wpfApp.dll
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\ref\wpfApp.dll
+C:\Users\Colocar Nome\wpfApp\bin\Debug\net5.0-windows\wpfApp.pdb
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.csproj.AssemblyReference.cache
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp_MarkupCompile.cache
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp_MarkupCompile.lref
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.g.resources
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.AssemblyInfoInputs.cache
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.AssemblyInfo.cs
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.dll
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\ref\wpfApp.dll
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.pdb
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\wpfApp.genruntimeconfig.cache
+C:\Users\Colocar Nome\wpfApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\wpfApp.exe
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\wpfApp.deps.json
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\wpfApp.runtimeconfig.json
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\wpfApp.runtimeconfig.dev.json
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\wpfApp.dll
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\ref\wpfApp.dll
+D:\My_Stuff\Projects\wpfApp\bin\Debug\net5.0-windows\wpfApp.pdb
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.csproj.AssemblyReference.cache
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\App.g.cs
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp_MarkupCompile.cache
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp_MarkupCompile.lref
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.g.resources
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.AssemblyInfoInputs.cache
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.AssemblyInfo.cs
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.csproj.CoreCompileInputs.cache
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.dll
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\ref\wpfApp.dll
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.pdb
+D:\My_Stuff\Projects\wpfApp\obj\Debug\net5.0-windows\wpfApp.genruntimeconfig.cache

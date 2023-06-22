@@ -1,0 +1,472 @@
+[
+  {
+    "ID": "concept",
+    "Incoming": [
+      "4f5bbc",
+      "f5c6d3",
+      "c6e9fc",
+      "454f67",
+      "eb5091",
+      "9e4086",
+      "0950b0",
+      "37ce27",
+      "761c55",
+      "e7363a",
+      "1dc8c4",
+      "d3b849"
+    ],
+    "Outcoming": [],
+    "Label": "Concept",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "local",
+    "Incoming": [
+      "1850b3",
+      "c8bae5"
+    ],
+    "Outcoming": [
+      "4f5bbc"
+    ],
+    "Label": "Local",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "177a77",
+    "Incoming": [],
+    "Outcoming": [
+      "f5c6d3"
+    ],
+    "Label": "Life",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "24437e",
+    "Incoming": [],
+    "Outcoming": [
+      "c6e9fc"
+    ],
+    "Label": "Magic",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "f7176d",
+    "Incoming": [
+      "249ac9",
+      "79a6bc",
+      "21fd7c"
+    ],
+    "Outcoming": [
+      "454f67"
+    ],
+    "Label": "Element",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "003776",
+    "Incoming": [],
+    "Outcoming": [
+      "249ac9",
+      "cd8dce"
+    ],
+    "Label": "Fire",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "f8f5e8",
+    "Incoming": [],
+    "Outcoming": [
+      "79a6bc"
+    ],
+    "Label": "Water",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "c4fc1c",
+    "Incoming": [],
+    "Outcoming": [
+      "21fd7c",
+      "35e0fa"
+    ],
+    "Label": "Lightning",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "65cc81",
+    "Incoming": [
+      "d7f08e",
+      "f4d1a6",
+      "6e0cc7"
+    ],
+    "Outcoming": [
+      "eb5091",
+      "813a2b"
+    ],
+    "Label": "Object",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "c3e078",
+    "Incoming": [
+      "3577be"
+    ],
+    "Outcoming": [
+      "d7f08e",
+      "1850b3",
+      "c8bae5"
+    ],
+    "Label": "Building",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "59c8c7",
+    "Incoming": [],
+    "Outcoming": [
+      "3577be"
+    ],
+    "Label": "House",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "036e3e",
+    "Incoming": [],
+    "Outcoming": [
+      "f4d1a6"
+    ],
+    "Label": "Chair",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "d1d307",
+    "Incoming": [
+      "39b7f8",
+      "a4f9bb"
+    ],
+    "Outcoming": [
+      "9e4086"
+    ],
+    "Label": "Feeling",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "46ef15",
+    "Incoming": [],
+    "Outcoming": [
+      "39b7f8"
+    ],
+    "Label": "Happiness",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "52799b",
+    "Incoming": [],
+    "Outcoming": [
+      "a4f9bb"
+    ],
+    "Label": "Sadness",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "a0e0c0",
+    "Incoming": [
+      "b669f7",
+      "693e90",
+      "53802f"
+    ],
+    "Outcoming": [
+      "0950b0"
+    ],
+    "Label": "Status",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "992fd7",
+    "Incoming": [
+      "cd8dce"
+    ],
+    "Outcoming": [
+      "b669f7"
+    ],
+    "Label": "Burn",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "281cb5",
+    "Incoming": [],
+    "Outcoming": [
+      "693e90"
+    ],
+    "Label": "Cold",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "0d9ba5",
+    "Incoming": [
+      "35e0fa"
+    ],
+    "Outcoming": [
+      "53802f"
+    ],
+    "Label": "Shocked",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "747875",
+    "Incoming": [
+      "15174a",
+      "eab398"
+    ],
+    "Outcoming": [
+      "37ce27"
+    ],
+    "Label": "Shape",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "f78430",
+    "Incoming": [],
+    "Outcoming": [
+      "15174a"
+    ],
+    "Label": "Sphere",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "7eafaf",
+    "Incoming": [],
+    "Outcoming": [
+      "eab398"
+    ],
+    "Label": "Cube",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "4acb5c",
+    "Incoming": [],
+    "Outcoming": [
+      "05db0f"
+    ],
+    "Label": "Wood",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "02a0b3",
+    "Incoming": [],
+    "Outcoming": [
+      "6b7958"
+    ],
+    "Label": "Steel",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "965ec7",
+    "Incoming": [],
+    "Outcoming": [
+      "cef025"
+    ],
+    "Label": "Flesh",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "cfbd73",
+    "Incoming": [],
+    "Outcoming": [
+      "5dbd5a"
+    ],
+    "Label": "Bone",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "210918",
+    "Incoming": [
+      "cef025",
+      "5dbd5a",
+      "6b7958",
+      "05db0f",
+      "813a2b"
+    ],
+    "Outcoming": [
+      "761c55"
+    ],
+    "Label": "Material",
+    "AsProperty": "made of",
+    "Data": {}
+  },
+  {
+    "ID": "128497",
+    "Incoming": [
+      "e41254",
+      "a5d850",
+      "15862d",
+      "1a822b",
+      "6bff56"
+    ],
+    "Outcoming": [
+      "e7363a"
+    ],
+    "Label": "Action",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "aa14a2",
+    "Incoming": [],
+    "Outcoming": [
+      "a5d850"
+    ],
+    "Label": "Cast",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "878249",
+    "Incoming": [],
+    "Outcoming": [
+      "15862d"
+    ],
+    "Label": "Lift",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "2947c9",
+    "Incoming": [],
+    "Outcoming": [
+      "1a822b"
+    ],
+    "Label": "Destroy",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "53670b",
+    "Incoming": [],
+    "Outcoming": [
+      "6bff56"
+    ],
+    "Label": "Read",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "0d79e6",
+    "Incoming": [],
+    "Outcoming": [
+      "1dc8c4"
+    ],
+    "Label": "Information",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "e3db91",
+    "Incoming": [
+      "60e168"
+    ],
+    "Outcoming": [
+      "d3b849",
+      "6e0cc7"
+    ],
+    "Label": "Item",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "acb964",
+    "Incoming": [],
+    "Outcoming": [
+      "60e168",
+      "35b653"
+    ],
+    "Label": "Equipment",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "04467f",
+    "Incoming": [
+      "35b653",
+      "9b52b5",
+      "f2c090",
+      "91db65"
+    ],
+    "Outcoming": [
+      "c390fb"
+    ],
+    "Label": "Status",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "29e803",
+    "Incoming": [
+      "c390fb"
+    ],
+    "Outcoming": [],
+    "Label": "MetaData",
+    "AsProperty": null,
+    "Data": {}
+  },
+  {
+    "ID": "d1af7a",
+    "Incoming": [],
+    "Outcoming": [
+      "9b52b5"
+    ],
+    "Label": "Defense",
+    "AsProperty": null,
+    "Data": {
+      "Type": "number"
+    }
+  },
+  {
+    "ID": "4bd96c",
+    "Incoming": [],
+    "Outcoming": [
+      "f2c090"
+    ],
+    "Label": "Attack",
+    "AsProperty": null,
+    "Data": {
+      "Type": "number"
+    }
+  },
+  {
+    "ID": "409032",
+    "Incoming": [],
+    "Outcoming": [
+      "91db65"
+    ],
+    "Label": "Durability",
+    "AsProperty": null,
+    "Data": {
+      "Type": "number"
+    }
+  }
+]

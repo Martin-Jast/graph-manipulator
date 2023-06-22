@@ -1,0 +1,370 @@
+[
+  {
+    "ID": "4f5bbc",
+    "From": "local",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "f5c6d3",
+    "From": "177a77",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "c6e9fc",
+    "From": "24437e",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "454f67",
+    "From": "f7176d",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "eb5091",
+    "From": "65cc81",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "249ac9",
+    "From": "003776",
+    "To": "f7176d",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "79a6bc",
+    "From": "f8f5e8",
+    "To": "f7176d",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "21fd7c",
+    "From": "c4fc1c",
+    "To": "f7176d",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "d7f08e",
+    "From": "c3e078",
+    "To": "65cc81",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "1850b3",
+    "From": "c3e078",
+    "To": "local",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "c8bae5",
+    "From": "c3e078",
+    "To": "local",
+    "Label": "IS_AT",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "f4d1a6",
+    "From": "036e3e",
+    "To": "65cc81",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "3577be",
+    "From": "59c8c7",
+    "To": "c3e078",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "39b7f8",
+    "From": "46ef15",
+    "To": "d1d307",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "a4f9bb",
+    "From": "52799b",
+    "To": "d1d307",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "9e4086",
+    "From": "d1d307",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "0950b0",
+    "From": "a0e0c0",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "b669f7",
+    "From": "992fd7",
+    "To": "a0e0c0",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "693e90",
+    "From": "281cb5",
+    "To": "a0e0c0",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "53802f",
+    "From": "0d9ba5",
+    "To": "a0e0c0",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "37ce27",
+    "From": "747875",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "15174a",
+    "From": "f78430",
+    "To": "747875",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "eab398",
+    "From": "7eafaf",
+    "To": "747875",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "cd8dce",
+    "From": "003776",
+    "To": "992fd7",
+    "Label": "CAUSES",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "35e0fa",
+    "From": "c4fc1c",
+    "To": "0d9ba5",
+    "Label": "CAUSES",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "761c55",
+    "From": "210918",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": "made of"
+  },
+  {
+    "ID": "cef025",
+    "From": "965ec7",
+    "To": "210918",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "5dbd5a",
+    "From": "cfbd73",
+    "To": "210918",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "6b7958",
+    "From": "02a0b3",
+    "To": "210918",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "05db0f",
+    "From": "4acb5c",
+    "To": "210918",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "813a2b",
+    "From": "65cc81",
+    "To": "210918",
+    "Label": "HAS",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "e41254",
+    "From": "1e4362",
+    "To": "128497",
+    "Label": "INSTANCE_OF",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "e7363a",
+    "From": "128497",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "a5d850",
+    "From": "aa14a2",
+    "To": "128497",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "15862d",
+    "From": "878249",
+    "To": "128497",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "1a822b",
+    "From": "2947c9",
+    "To": "128497",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "6bff56",
+    "From": "53670b",
+    "To": "128497",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "1dc8c4",
+    "From": "0d79e6",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "d3b849",
+    "From": "e3db91",
+    "To": "concept",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "60e168",
+    "From": "acb964",
+    "To": "e3db91",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "6e0cc7",
+    "From": "e3db91",
+    "To": "65cc81",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "c390fb",
+    "From": "04467f",
+    "To": "29e803",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "35b653",
+    "From": "acb964",
+    "To": "04467f",
+    "Label": "HAS",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "9b52b5",
+    "From": "d1af7a",
+    "To": "04467f",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "f2c090",
+    "From": "4bd96c",
+    "To": "04467f",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  },
+  {
+    "ID": "91db65",
+    "From": "409032",
+    "To": "04467f",
+    "Label": "IS_A",
+    "Flags": null,
+    "AsProperty": null
+  }
+]
